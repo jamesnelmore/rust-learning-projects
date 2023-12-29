@@ -12,3 +12,6 @@ target/
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+.vscode/ltex.hiddenFalsePositives.en-US.txt
+.vscode/ltex.dictionary.en-US.txt
+.vscode/settings.json
